@@ -5,12 +5,12 @@
   <p><strong>Advanced Vulnerability Management and Bug Bounty Platform</strong></p>
   
   <div class="live-demo-banner" style="margin: 30px 0;">
-    <a href="https://sentryl.vercel.app" target="_blank">
+    <a href="DEMO_URL_PLACEHOLDER" target="_blank">
       <img src="https://img.shields.io/badge/LIVE_DEMO-sentryl.vercel.app-0ED8C5?style=for-the-badge&logo=vercel" alt="Live Demo" width="300">
     </a>
     <p style="margin-top: 8px;">
       <strong>Demo credentials:</strong><br>
-      Email: <code>demo@example.com</code> | Password: <code>demo123</code>
+      Email: <code>DEMO_EMAIL_PLACEHOLDER</code> | Password: <code>DEMO_PASSWORD_PLACEHOLDER</code>
     </p>
   </div>
   
@@ -97,7 +97,7 @@ sentryl/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sachinskyte/Sentryl.git
+   git clone REPOSITORY_URL_PLACEHOLDER
    cd Sentryl
    ```
 

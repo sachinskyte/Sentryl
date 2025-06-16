@@ -14,8 +14,8 @@ const ConnectionPrompt: React.FC<ConnectionPromptProps> = ({
   isLoading,
   connectionError 
 }) => {
-  const [apiUrl, setApiUrl] = useState<string>('http://127.0.0.1:8000/fake-attacks');
-  const [blockchainUrl, setBlockchainUrl] = useState<string>('https://sentryl-production.up.railway.app/chain');
+  const [apiUrl, setApiUrl] = useState<string>('API_URL_PLACEHOLDER');
+  const [blockchainUrl, setBlockchainUrl] = useState<string>('BLOCKCHAIN_URL_PLACEHOLDER');
   const [apiKey, setApiKey] = useState<string>('');
 
   const handleSubmit = (e: React.FormEvent) => {
